@@ -25,12 +25,19 @@ Users should be able to:
 
 ### Screenshot
 
-![](./assets/screenshots/Screenshot_desktop.png)
-![](./assets/screenshots/Screenshot_mobile.png)
+<p align="center">
+  Screenshot to mobile
+  <br />
+  <img src="https://github.com/TdB27/Stats-preview-card-component/blob/main/assets/sceenshots/Screenshot_mobile.png" width="350" alt="Screenshot to mobile">
+  <br />
+  Screenshot to desktop
+  <img src="https://github.com/TdB27/Stats-preview-card-component/blob/main/assets/sceenshots/Screenshot_desktop.png" width="100%" alt="Screenshot to desktop">
+</p>
+
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: https://tdb27.github.io/Stats-preview-card-component/
 - Live Site URL: https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62
 
 ## My process
