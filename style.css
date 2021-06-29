@@ -14,8 +14,9 @@
   --stats-headings: hsla(0, 0%, 100%, 0.6);
 }
 
-body {
+body{
   background: var(--dark-blue);
+
 }
 
 /* BODY ============ */
@@ -163,27 +164,31 @@ body {
     margin: 0;
     text-align: left;
   }
-
-  .main .title {
-    font-size: 1.7rem;
+  
+  .main .title h1 {
+    font-size: 2rem;
     margin-bottom: 1.5rem;
     line-height: 2.7rem;
   }
-
+  
+  .main .text {
+    width: 20rem;
+  }
+  
   .main .text span {
     display: inline;
   }
-
+  
   .main .statistic {
     display: flex;
     gap: 3rem;
     margin: 4.5rem auto 3rem 0;
     text-align: left;
   }
-
+  
   /* FOOTER */
   .attribution {
-    width: 16.5rem;
+    width: 17rem;
     text-align: left;
     margin-left: 5rem;
   }
