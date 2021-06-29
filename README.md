@@ -26,11 +26,11 @@ Users should be able to:
 ### Screenshot
 
 <p align="center">
-  Screenshot to mobile
+  Screenshot to mobile (375px)
   <br />
   <img src="https://github.com/TdB27/Stats-preview-card-component/blob/main/assets/sceenshots/Screenshot_mobile.png" width="350" alt="Screenshot to mobile">
   <br />
-  Screenshot to desktop
+  Screenshot to desktop (1440px)
   <img src="https://github.com/TdB27/Stats-preview-card-component/blob/main/assets/sceenshots/Screenshot_desktop.png" width="100%" alt="Screenshot to desktop">
 </p>
 
