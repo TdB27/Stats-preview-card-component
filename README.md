@@ -31,7 +31,7 @@ Users should be able to:
   <img src="https://github.com/TdB27/Stats-preview-card-component/blob/main/assets/sceenshots/Screenshot_mobile.png" width="350" alt="Screenshot to mobile">
   <br />
   Screenshot to desktop (1440px)
-  <img src="" width="100%" alt="Screenshot to desktop">
+  <img src="https://github.com/TdB27/Stats-preview-card-component/blob/main/assets/sceenshots/Screenshot_desktop.png" width="100%" alt="Screenshot to desktop">
 </p>
 
 
